@@ -6,9 +6,10 @@ It is about mental illness
  I try to anayze by countries and states 
 # Project
 #
-Python code for this project call :final version.py, 
+Python code for this project call :final version.py
+
 I upoad the final_project(data1202).py first, and update to define the function by using github desktop version, i can see
-all the file, but I cannot see the revise version from web version, so just inc case I upload my final version of my final
+all the file on the desktop verison, but I cannot see the update from web version, so just inc case I upload my final version of my final
 project
 
 # why do i choose the variable
